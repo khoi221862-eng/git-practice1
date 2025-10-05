@@ -1,2 +1,2 @@
 # Git Practice
-Gioi thieu: Toi la Le Hoang Khoi, MSSV 221862.
+THẦY ƠI CHO BÀI ÍT THOI LÀM DÀI QUÁ 
